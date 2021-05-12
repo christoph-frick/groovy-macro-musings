@@ -1,0 +1,6 @@
+moduleName=Module for fooling with macros
+moduleVersion=0.1-SNAPSHOT
+extensionClasses=\
+  net.ofnir.groovymacromusings.macros.StringMacroMethods \
+  net.ofnir.groovymacromusings.macros.ThreadingMacroMethods \
+  net.ofnir.groovymacromusings.macros.MacroMethods
